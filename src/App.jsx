@@ -5,7 +5,7 @@ import BotonWhatsapp from './components/BotonWhatsapp'
 
 function App() {
   return (
-    <div className="min-h-screen bg-white max-w-md mx-auto px-4 py-8">
+    <div className="min-h-screen bg-zinc-950 max-w-md mx-auto px-4 py-8">
       <Header />
       <RedesSociales />
       <Catalogos />
